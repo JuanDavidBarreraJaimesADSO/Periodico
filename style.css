@@ -1,0 +1,141 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    
+    
+    
+}   
+.caja_contenedora
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding: auto;
+    width: 80vw;
+    height: 100vh;
+    background-color: #b8ac8c; 
+}
+.caja_primaria
+{
+    position: relative;
+    width: 16%;
+    height:65%;
+    top: 5%;
+    left: 15%;
+    border: 2px solid black;
+}
+.seccion1{
+    position: relative;
+    width: 100%;
+    height: 40%;
+    right: 0%;
+    bottom: 1.5%;
+}
+.seccion1 img
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    bottom: -4%;
+      
+}
+.seccion2
+{
+    position: relative;
+    width: 100%;
+    height: 20%;
+    bottom: -1%;
+    text-align: center;
+    font-size: 14px;    
+}
+.seccion3
+{
+    position: relative;
+    width: 100%;
+    height: 30%;
+    right: 0%;
+    bottom: -10%;
+    font-size: 13px;
+}
+.caja_secundaria
+{
+    position: relative;
+    width: 16%;
+    height: 65%;
+    bottom: 60%;
+    left: 32%;
+    border: 2px solid black;
+}
+.seccion1s
+{
+    position: relative;
+    width: 100%;
+    height: 60%;
+    left: 0%;
+    bottom: 0%;
+}
+.seccion1s img
+{
+    position: relative;
+    width: 100%;
+    height: 90%;
+    bottom: 0%;
+  
+}
+.seccion2s
+{
+    position: relative;
+    width: 100%;
+    height: 20%;
+    right: 0;
+    left: 0%;
+    bottom: 6%;
+    
+}
+.seccion3s
+{
+    position: relative;
+    width: 100%;
+    height: 20%;
+    right: 0%;
+    left: 0%;
+    bottom: 0%;
+    
+}
+.caja_tercera 
+ {
+    position: relative;
+    width: 33%;
+    height: 25%;
+    bottom: 60%;
+    left: 15%;
+    border: 2px solid black;
+ }
+ .caja_cuarta
+{
+    position: relative;                                                  
+    width: 16%;
+    height: 65%;
+    bottom: 130%;
+    left: 70%;
+    border: 2px solid black;
+    font-size: 14px;       
+}
+.caja_quinta
+{
+    position: relative;
+    width: 16%;
+    height: 65%;
+    bottom: 225%;
+    left: 50%;
+    border: 2px solid black;
+    font-size: 14px;
+}                                  
