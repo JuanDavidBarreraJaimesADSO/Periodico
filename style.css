@@ -51,7 +51,7 @@
     height: 20%;
     bottom: -1%;
     text-align: center;
-    font-size: 1.2rem;    
+    font-size: 1rem;    
 }
 .seccion3
 {
@@ -59,7 +59,7 @@
     width: 100%;
     height: 30%;
     bottom: -10%;
-    font-size: 1.4rem;
+    font-size: 1rem;
     
 }
 .caja_secundaria
@@ -70,7 +70,7 @@
     bottom: 60%;
     left: 32%;
     border: 2px solid black;
-    font-size: 1.4rem;
+    font-size: 1rem;
 }
 .seccion1s
 {
@@ -124,7 +124,7 @@
     bottom: 149.9%;
     left: 67%;
     border: 2px solid black;    
-    font-size: 1.6rem;       
+    font-size: 1rem;       
 }
 .caja_quinta
 {
@@ -134,7 +134,7 @@
     bottom: 214.9%;
     left: 50%;
     border: 2px solid black;
-    font-size: 1.6rem;
+    font-size: 1rem;
 } 
 .caja_sexta
 {
